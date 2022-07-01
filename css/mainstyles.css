@@ -58,10 +58,10 @@ header .mobile-menu ul li a {
 .menu-links-last {
   font-family: 'Lato', sans-serif;
   font-weight: normal;
-  font-size: 20;
+  font-size: 12;
   width: fit-content;
   border: 3px solid #ec5242;
-  padding: 12px;
+  padding: 5px;
   margin: 24px;
   background-image: url('../img/textbackground.jpeg');
   background-size: 150%;
