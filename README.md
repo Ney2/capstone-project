@@ -32,7 +32,7 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 # Acknowledgments
-To my learning partners and Standup team members
+Original idea by Cindy shine in Behance
 
 # 📝 License
 This project is MIT licensed.
