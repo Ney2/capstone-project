@@ -1,6 +1,6 @@
-# capstone-project
-This is my first capstone project for modlue 1. It is a website buit for a Global Women Tech Conference
-
+# Global Women Tech Conference Website
+This is my first capstone project for modlue 1. 
+It is a website buit for a Global Women Tech Conference
 
 # Built With
    - Html
@@ -32,7 +32,9 @@ Contributions, issues, and feature requests are welcome!
 Give a ⭐️ if you like this project!
 
 # Acknowledgments
-Original idea by Cindy shine in Behance
+Original idea by Cindy shine in Behance 
+https://www.behance.net/gallery/29845175/CC-Global-Summit-2015
+
 
 # 📝 License
 This project is MIT licensed.
