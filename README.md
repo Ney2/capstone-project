@@ -9,8 +9,8 @@ It is a website buit for a Global Women Tech Conference
    
 
 # Live Demo 
- Live demo link :
- Vedio recording link : https://www.loom.com/share/09fcdbf0c5ee42fd983609093eadb35c
+ - Live demo link : [Global Women Tech Conference](https://preeminent-fairy-9a99d1.netlify.app/index.html)
+ - Vedio recording link : https://www.loom.com/share/09fcdbf0c5ee42fd983609093eadb35c
 
 # Getting Started
   To get a local copy up and running follow these simple example steps.
@@ -26,7 +26,7 @@ It is a website buit for a Global Women Tech Conference
   - LinkedIn: @KidistDinku
 
 # 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
+Contributions, [issues](https://github.com/Ney2/capstone-project/issues), and feature requests are welcome!
 
 # Show your support
 Give a ⭐️ if you like this project!
