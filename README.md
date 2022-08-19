@@ -34,8 +34,7 @@ Contributions, [issues](https://github.com/Ney2/capstone-project/issues), and fe
 Give a ⭐️ if you like this project!
 
 # Acknowledgments
-Original idea by [Cindy shine in Behance] 
-(https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
+Original idea by [Cindy shine in Behance](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
 
 # 📝 License
