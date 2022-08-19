@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Global Women Tech Conference Website
 This is my first capstone project for modlue 1. 
 It is a website buit for a Global Women Tech Conference
@@ -32,8 +34,8 @@ Contributions, [issues](https://github.com/Ney2/capstone-project/issues), and fe
 Give a ⭐️ if you like this project!
 
 # Acknowledgments
-Original idea by Cindy shine in Behance 
-https://www.behance.net/gallery/29845175/CC-Global-Summit-2015
+Original idea by [Cindy shine in Behance] 
+(https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
 
 # 📝 License
