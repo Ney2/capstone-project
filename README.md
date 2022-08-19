@@ -10,7 +10,7 @@ It is a website buit for a Global Women Tech Conference
 
 # Live Demo 
  - Live demo link : [Global Women Tech Conference](https://preeminent-fairy-9a99d1.netlify.app/index.html)
- - Vedio recording link : https://www.loom.com/share/09fcdbf0c5ee42fd983609093eadb35c
+ - Vedio recording link : [Loom Vedio](https://www.loom.com/share/09fcdbf0c5ee42fd983609093eadb35c)
 
 # Getting Started
   To get a local copy up and running follow these simple example steps.
