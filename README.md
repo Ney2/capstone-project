@@ -23,9 +23,9 @@ It is a website buit for a Global Women Tech Conference
            3. Run index.html file
            
 # Author 
-  - GitHub: @Ney2
-  - Twitter: @KidistGuta
-  - LinkedIn: @KidistDinku
+  - GitHub: [Ney2](http://github.com/Ney2)
+  - Twitter: [KidistGuta](https://twitter.com/GutaKidist)
+  - LinkedIn: [KidistDinku](https://www.linkedin.com/in/kidist-guta/)
 
 # 🤝 Contributing
 Contributions, [issues](https://github.com/Ney2/capstone-project/issues), and feature requests are welcome!
